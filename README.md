@@ -1,6 +1,6 @@
-# simpleTCP
+# SimpleTCP
 
-A server and client program that communicatres using the TCP protocol.
+Server and client programs that communicates using the Transmission Control Protocol (TCP).
 
 ## **Usage**
 
