@@ -15,4 +15,9 @@ In terminal window B pass in the following command.
 You will then be asked to type something. Once finished, press enter and your phrase
 will be returned to you with each character iterated by one. 
 
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
 
